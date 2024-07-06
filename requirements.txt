@@ -7,7 +7,7 @@ bing_image_downloader==1.1.2
 bleach==6.1.0
 bs4==0.0.2
 pyromod==2.0.0 
-cachetools==4.2.2
+cachetools==5.3.3
 git+https://github.com/TeamKillerX/RyuzakiLib.git
 cloudscraper==1.2.71
 countryinfo==0.1.2
