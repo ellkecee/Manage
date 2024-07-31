@@ -11,7 +11,7 @@ cachetools==4.2.2
 git+https://github.com/TeamKillerX/RyuzakiLib.git
 cloudscraper==1.2.71
 countryinfo==0.1.2
-currencyconverter==0.17.16
+currencyconverter==0.17.28
 dateparser==1.2.0 
 oldpyro 
 emoji==2.10.1 
